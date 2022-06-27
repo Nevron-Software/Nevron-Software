@@ -1,4 +1,4 @@
-![Nevron Software](blob/images/logo.png?raw=true)
+![Nevron Software](Images/logo.png?raw=true)
 
 Nevron Software is specialized in the development of premium Data Visualization and User Interface components for .NET based technologies such as NET Framework, .NET Core, ASP.NET, WinForms, WPF, and Blazor WebAssembly.
 
