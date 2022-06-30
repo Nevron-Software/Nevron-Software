@@ -1,8 +1,5 @@
 ![Nevron Software](Images/Banner.png?raw=true)
-
 Nevron Software is specialized in the development of premium Data Visualization and User Interface components for .NET based technologies such as NET Framework, .NET Core, ASP.NET, WinForms, WPF, and Blazor WebAssembly.
-
-
 <!--
 **Nevron-Software/Nevron-Software** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
